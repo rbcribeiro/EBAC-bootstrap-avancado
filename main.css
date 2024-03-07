@@ -9,3 +9,9 @@ body{
 .card-header {
     font-weight: bold;
 }
+
+@media (max-width: 760px) {
+    .card {
+        margin-bottom: 30px;
+    }
+}
