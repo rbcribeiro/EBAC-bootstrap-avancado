@@ -1,6 +1,6 @@
 <h1 align="center">Booststrap</h1>
 
-Conhecendo mais sobre o desenvolvimento de varios modelos de cards com o Bootstrap.
+Conhecendo e aprendendo sobre o desenvolvimento de Carousel e alguns modelos de Cards com o Bootstrap.
 
 <p align="center">
     <img src=".github/print.png" alt="Imagem do site" width="100%" /></p> 
